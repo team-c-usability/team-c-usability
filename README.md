@@ -13,17 +13,11 @@ In this project, our goal is to work with Chantal Rodier (University of Ottawa),
 
 **Key features and objectives for the new web platform include:**
 
-**Visibility and Sharing**: Increase visibility of the SIG's activities locally, nationally, and globally. Enable the sharing of current research interests among SIG members. 
-Showcase events and SIG-related content to the broader CEEA-ACEG community.
-
-**Network Mapping and Building**: Develop a feature for mapping the network of individuals and their interests within the SIG. Find ways to connect with similar-minded SIGs and build a broader network.
-
-**User-Friendly Design**: a user-friendly platform that can be easily maintained and supported.
-
-**Bilingual Support**: Ensure the platform supports bilingual communication, reflecting the diversity of the CEEA-ACEG community.
-
-**Member-Only Section**: Implement a member-only section for exclusive content and discussions within the SIG.
-
+**Visibility and Sharing research with community**
+**Network Mapping and Building**
+**User-Friendly Design**
+**Bilingual Support**
+**Member-Only Section**
 
 Given these objectives, the technology and programming environment for the web platform will include StoriesOnBoard, Mural, WordPress and GitHub.
 
